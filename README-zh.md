@@ -107,12 +107,12 @@ Awesome Mac
 
 ## 开发者工具
 
-
 ### 编辑器
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
 * [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE，基于 Intellij IDEA。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
+* [Aurora Editor](https://auroraeditor.com/) - 适用于 macOS 的轻量级代码编辑器 (IDE)。 [![Open-Source Software][OSS Icon]](https://github.com/AuroraEditor/AuroraEditor)
 * [Brackets](http://brackets.io) - Adobe 推出的 Brackets 免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Nova](http://panic.com/coda/) - 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。
@@ -860,6 +860,8 @@ Awesome Mac
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
 * [360压缩](https://yasuo.360.cn/mac/index.html) - 简单易用，免费无广告的压缩工具。![Freeware][Freeware Icon]
 * [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12) - 一款finder右键菜单扩展，包括了大量便捷工具比如新建文件，直接打开终端等 [![App Store][app-store Icon]]
+* [Dropshelf](https://pilotmoon.com/dropshelf/) - 一款拖放文件辅助工具，可以将文件放在一个悬浮窗以方便移动到其他位置。![Freeware][Freeware Icon]
+* [Dropover](https://dropoverapp.com/) - 一款拖放文件、文本辅助工具，可以在无需打开并排窗口的情况下，将可拖动内容存储、收集或移动，比 Dropshelf 功能更加丰富。[![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052)
 
 
 ### 剪贴板工具
