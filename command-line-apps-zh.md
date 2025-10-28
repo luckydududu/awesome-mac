@@ -1,5 +1,5 @@
 <div align="center" markdown="1">
-  <sup>Special thanks to:</sup>
+  <sup>特别感谢：</sup>
   <br>
   <br>
   <a href="https://www.warp.dev/awesome-mac">
@@ -8,6 +8,21 @@
   <br>
   <a href="https://warp.dev/awesome-mac"><b>Warp, the intelligent terminal for developers!</b></a><br>
   <a href="https://warp.dev/awesome-mac">Available for MacOS, Linux, & Windows</a><br><br>
+
+  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">
+    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/zenquery.png">
+  </a>
+  <br>
+  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac"><b>ZenQuery</b></a><br>
+  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">Instant Q/A on your data files (CSV, JSON, Excel, Parquet)</a><br><br>
+
+  <a href="https://tuple.app/awesome-mac">
+    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/tuple.app.png">
+  </a>
+  <br>
+  <a href="https://tuple.app/awesome-mac">Tuple, the premier screen sharing app for developers on macOS and Windows.</a>
+
+  <br><br>
 </div>
 <hr>
 
@@ -24,7 +39,11 @@
 
 ✦ 我的 macOS 应用程序：
 
-<div style="display: inline_block">
+<p style="display: inline_block">
+<a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img align="center" alt="Vidwall Hub" height="52" width="52" src="https://wangchujiang.com/appicon/vidwall-hub.png"></a>
+<a target="_blank" href="https://apps.apple.com/app/Vidwall/6747587746" title="Vidwall for macOS"><img align="center" alt="Vidwall" height="52" width="52" src="https://github.com/user-attachments/assets/7b5df70a-ed91-4d4b-85be-f00e60a09ce9"></a>
+<a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img align="center" alt="Mousio Hint" height="52" width="52" src="https://github.com/user-attachments/assets/3c0af128-0cef-44e5-a8db-4741dc5a6690"></a>
+<a target="_blank" href="https://apps.apple.com/app/6746747327" title="Mousio for macOS"><img align="center" alt="Mousio" height="52" width="52" src="https://github.com/user-attachments/assets/9edf61ff-5a6c-4676-9cc2-8fd3c1ad0dfb"></a>
 <a target="_blank" href="https://apps.apple.com/app/6745227444" title="Musicer for macOS"><img align="center" alt="Musicer" height="52" width="52" src="https://github.com/user-attachments/assets/b7abfba8-88ff-4c86-a125-43073d5aef22"></a>
 <a target="_blank" href="https://apps.apple.com/app/6743841447" title="Audioer for macOS"><img align="center" alt="Audioer" height="52" width="52" src="https://github.com/user-attachments/assets/7a836865-8c90-4119-87bc-19e06a76c957"></a>
 <a target="_blank" href="https://apps.apple.com/app/6744690194" title="FileSentinel for macOS"><img align="center" alt="FileSentinel" height="52" width="52" src="https://github.com/user-attachments/assets/28bce2cc-290e-45bf-9068-585ff6ecafe9"></a>
@@ -48,7 +67,7 @@
 <a target="_blank" href="https://apps.apple.com/app/6476400184" title="Resume Revise for macOS"><img align="center" alt="Resume Revise" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
 <a target="_blank" href="https://apps.apple.com/app/6472593276" title="Palette Genius for macOS"><img align="center" alt="Palette Genius" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
 <a target="_blank" href="https://apps.apple.com/app/6470879005" title="Symbol Scribe for macOS"><img align="center" alt="Symbol Scribe" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
-</div>
+</p>
 
 <!--idoc:ignore:start-->
 
@@ -69,18 +88,19 @@
 ## 数据库
 
 * [mycli](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
-* [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax 
+* [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax
 
 ## 媒体
 
 * [cmus](https://cmus.github.io/) - 命令行播放音乐应用。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
-* [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - 从 YouTube.com 及其他一些网站下载视频。 [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl) 
+* [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - 从 YouTube.com 及其他一些网站下载视频。 [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## 开发者工具
 
 * [httpie](https://httpie.org) - HTTPie 是一个让你微笑的命令行 HTTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - 一个用于处理 Markdown 文件的命令行工具。下载图片、翻译文件等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [SimTool](https://github.com/azizuysal/simtool) - Terminal UI for iOS Simulator management with powerful app browsing and file viewing capabilities. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
 
 ## Other
 

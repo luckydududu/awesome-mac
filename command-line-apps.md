@@ -8,23 +8,42 @@
   <br>
   <a href="https://warp.dev/awesome-mac"><b>Warp, the intelligent terminal for developers!</b></a><br>
   <a href="https://warp.dev/awesome-mac">Available for MacOS, Linux, & Windows</a><br><br>
+
+  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">
+    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/zenquery.png">
+  </a>
+  <br>
+  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac"><b>ZenQuery</b></a><br>
+  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">Instant Q/A on your data files (CSV, JSON, Excel, Parquet)</a><br><br>
+
+  <a href="https://tuple.app/awesome-mac">
+    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/tuple.app.png">
+  </a>
+  <br>
+  <a href="https://tuple.app/awesome-mac">Tuple, the premier screen sharing app for developers on macOS and Windows.</a>
+
+  <br><br>
 </div>
 <hr>
 
 Awesome Command Line Apps
 ===
-<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;--> 
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor)
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./command-line-apps-zh.md)
-<!--rehype:style=text-align: center;--> 
+<!--rehype:style=text-align: center;-->
 
 A curated list of useful command line apps
 
 ✦ My macOS application:
 
 <p style="display: inline_block">
+<a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img align="center" alt="Vidwall Hub" height="52" width="52" src="https://wangchujiang.com/appicon/vidwall-hub.png"></a>
+<a target="_blank" href="https://apps.apple.com/app/Vidwall/6747587746" title="Vidwall for macOS"><img align="center" alt="Vidwall" height="52" width="52" src="https://github.com/user-attachments/assets/7b5df70a-ed91-4d4b-85be-f00e60a09ce9"></a>
+<a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img align="center" alt="Mousio Hint" height="52" width="52" src="https://github.com/user-attachments/assets/3c0af128-0cef-44e5-a8db-4741dc5a6690"></a>
+<a target="_blank" href="https://apps.apple.com/app/6746747327" title="Mousio for macOS"><img align="center" alt="Mousio" height="52" width="52" src="https://github.com/user-attachments/assets/9edf61ff-5a6c-4676-9cc2-8fd3c1ad0dfb"></a>
 <a target="_blank" href="https://apps.apple.com/app/6745227444" title="Musicer for macOS"><img align="center" alt="Musicer" height="52" width="52" src="https://github.com/user-attachments/assets/b7abfba8-88ff-4c86-a125-43073d5aef22"></a>
 <a target="_blank" href="https://apps.apple.com/app/6743841447" title="Audioer for macOS"><img align="center" alt="Audioer" height="52" width="52" src="https://github.com/user-attachments/assets/7a836865-8c90-4119-87bc-19e06a76c957"></a>
 <a target="_blank" href="https://apps.apple.com/app/6744690194" title="FileSentinel for macOS"><img align="center" alt="FileSentinel" height="52" width="52" src="https://github.com/user-attachments/assets/28bce2cc-290e-45bf-9068-585ff6ecafe9"></a>
@@ -69,18 +88,19 @@ A curated list of useful command line apps
 ## Databases
 
 * [mycli](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
-* [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax 
+* [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax
 
 ## Media
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
-* [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - Download videos from YouTube.com and a few more sites. [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl) 
+* [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - Download videos from YouTube.com and a few more sites. [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## Developer
 
 * [httpie](https://httpie.org) - Modern command line HTTP client. [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - A command-line tool for processing Markdown files. Download Images, Translate Files, etc. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [SimTool](https://github.com/azizuysal/simtool) - Terminal UI for iOS Simulator management with powerful app browsing and file viewing capabilities. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
 
 ## Other
 
